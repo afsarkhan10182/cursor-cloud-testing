@@ -1,0 +1,10 @@
+Metric,Formula,Month 1,Notes
+Response rate,Responses / Contacts,,
+Demo rate,Demos / Responses,,
+Proposal rate,Proposals / Demos,,
+Close rate,Sales / Demos,,
+Average revenue per customer,Revenue / Sales,,
+CAC,(Retainer + incentives + tools + ads) / Sales,,"Fill spend in Notes"
+Median days to close,Demo date to Won date,,
+SaaS deals,Count of Won where model is M or A,,
+Own-server deals,Count of Won where model is O,,

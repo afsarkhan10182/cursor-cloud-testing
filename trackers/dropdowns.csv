@@ -1,0 +1,11 @@
+Field,Allowed values
+Product,"Salon, Restaurant, School, Hospital, Inventory, Textile, Real Estate"
+Lead Source,"Google, Google Maps, LinkedIn, Instagram, Directory, Referral, Network, Community, Website, WhatsApp, Other"
+Contact Method,"Call, WhatsApp, Email, LinkedIn, Instagram, In-person, Other"
+Status,"New Lead, Contacted, Replied, Qualified, Demo Booked, Demo Completed, Proposal, Negotiation, Won, Lost"
+Outcome,"Open, Won, Lost"
+Lost Reason,"Too expensive, Already using competitor, Missing feature, No budget, Not decision maker, Not interested, Wants one-time purchase, Wants own server/domain, Needs customization, Follow-up later, Trust issue, No response, Support concern, Other"
+Qual,"A, B, C, D"
+SaaS vs Own Server,"Monthly SaaS, Annual SaaS, Setup + subscription, One-time, Own server, White-label, Unknown"
+Platform,"YouTube, Instagram, LinkedIn, Website, WhatsApp, Other"
+Content Type,"Full demo, Feature demo, Problem-solution, Before-after, How-to, FAQ, Spotlight, Use case, New feature, Tips, CTA"
